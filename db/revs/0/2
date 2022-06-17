@@ -1,0 +1,178 @@
+PLAIN
+K 9
+.htaccess
+V 23
+file 2u-1.0.r1/22721730
+K 5
+Admin
+V 22
+dir 2w-1.0.r1/22875750
+K 4
+Home
+V 22
+dir i7-1.0.r1/22945451
+K 3
+css
+V 22
+dir nw-1.0.r1/22945842
+K 6
+editor
+V 22
+dir nz-1.0.r1/22951069
+K 11
+favicon.ico
+V 23
+file op-1.0.r1/22951206
+K 5
+fonts
+V 22
+dir oq-1.0.r1/22952192
+K 6
+images
+V 22
+dir ou-1.0.r1/22952714
+K 9
+index.php
+V 23
+file ox-1.0.r1/22952849
+K 2
+js
+V 22
+dir oy-1.0.r1/22953295
+K 7
+plugins
+V 22
+dir p1-1.0.r1/22958979
+K 10
+robots.txt
+V 23
+file pz-1.0.r1/22959117
+K 10
+web.config
+V 23
+file q1-1.0.r1/22959387
+END
+ENDREP
+id: 2t-1.0.r2/541
+type: dir
+pred: 2t-1.0.r1/22960161
+count: 1
+text: 2 0 528 528 9fab582efc198dccace79109e68dc38f
+cpath: /public
+copyroot: 0 /
+
+PLAIN
+K 13
+.editorconfig
+V 22
+file 0-1.0.r1/22702688
+K 4
+.env
+V 22
+file 2-1.0.r1/22702875
+K 12
+.env.example
+V 22
+file 3-1.0.r1/22703052
+K 14
+.gitattributes
+V 22
+file 4-1.0.r1/22703236
+K 10
+.gitignore
+V 22
+file 5-1.0.r1/22703422
+K 12
+.styleci.yml
+V 22
+file 6-1.0.r1/22703605
+K 3
+app
+V 21
+dir 7-1.0.r1/22713774
+K 7
+artisan
+V 23
+file 1n-1.0.r1/22713900
+K 9
+bootstrap
+V 22
+dir 1o-1.0.r1/22715272
+K 13
+composer.json
+V 23
+file 1w-1.0.r1/22715403
+K 13
+composer.lock
+V 23
+file 1x-1.0.r1/22715591
+K 6
+config
+V 22
+dir 1y-1.0.r1/22718902
+K 8
+database
+V 22
+dir 2d-1.0.r1/22721038
+K 10
+laravel.md
+V 23
+file 2q-1.0.r1/22721170
+K 12
+package.json
+V 23
+file 2r-1.0.r1/22721357
+K 11
+phpunit.xml
+V 23
+file 2s-1.0.r1/22721544
+K 6
+public
+V 17
+dir 2t-1.0.r2/541
+K 9
+readme.md
+V 23
+file q2-1.0.r1/22960291
+K 9
+resources
+V 22
+dir q3-1.0.r1/22970078
+K 6
+routes
+V 22
+dir ro-1.0.r1/22971168
+K 10
+server.php
+V 23
+file ru-1.0.r1/22971298
+K 7
+storage
+V 22
+dir rv-1.0.r1/22986634
+K 5
+tests
+V 22
+dir tt-1.0.r1/22988163
+K 6
+vendor
+V 22
+dir u3-1.0.r1/25654774
+K 14
+webpack.mix.js
+V 24
+file 95g-1.0.r1/25654906
+END
+ENDREP
+id: 0.0.r2/1771
+type: dir
+pred: 0.0.r1/25656188
+count: 2
+text: 2 684 1074 1074 4f75d855a8dbc68cb542c64b6caef5ef
+cpath: /
+copyroot: 0 /
+
+q0-1.0.r1/22959307 delete-dir false false /public/storage
+
+
+1771 1907

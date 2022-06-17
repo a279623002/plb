@@ -1,0 +1,227 @@
+id: 14-1.0.r24/0
+type: file
+pred: 14-1.0.r23/786
+count: 5
+text: 22 0 33 1603 af026a2365a2743c457472818d05ea70 7ace0e053941bc78673e846d544b48a4587f6169 23-n/_5
+cpath: /app/Http/Controllers/Home/IndexController.php
+copyroot: 0 /
+
+PLAIN
+K 18
+BaseController.php
+V 23
+file 12-1.0.r1/22708274
+K 19
+IndexController.php
+V 17
+file 14-1.0.r24/0
+END
+ENDREP
+id: 11-1.0.r24/346
+type: dir
+pred: 11-1.0.r23/1136
+count: 5
+text: 24 228 105 105 65e788900eb340e0f83ffb1eb9805ba9
+cpath: /app/Http/Controllers/Home
+copyroot: 0 /
+
+PLAIN
+K 5
+Admin
+V 17
+dir l-1.0.r11/772
+K 4
+Auth
+V 21
+dir t-1.0.r1/22707918
+K 14
+Controller.php
+V 23
+file 10-1.0.r1/22708066
+K 4
+Home
+V 18
+dir 11-1.0.r24/346
+END
+ENDREP
+id: j-1.0.r24/677
+type: dir
+pred: j-1.0.r23/1469
+count: 9
+text: 24 509 155 155 a2a23796e4ae750a74d165d6d42a90ed
+cpath: /app/Http/Controllers
+copyroot: 0 /
+
+PLAIN
+K 11
+Controllers
+V 17
+dir j-1.0.r24/677
+K 10
+Kernel.php
+V 23
+file 15-1.0.r1/22709304
+K 10
+Middleware
+V 22
+dir 16-1.0.r1/22711396
+END
+ENDREP
+id: i-1.0.r24/979
+type: dir
+pred: i-1.0.r23/1773
+count: 9
+text: 24 833 133 133 13e1a5328fd7fe655503102bd3e05d47
+cpath: /app/Http
+copyroot: 0 /
+
+PLAIN
+K 7
+Console
+V 21
+dir 8-1.0.r1/22704048
+K 10
+Exceptions
+V 21
+dir c-1.0.r1/22704443
+K 4
+Home
+V 21
+dir f-1.0.r1/22704827
+K 4
+Http
+V 17
+dir i-1.0.r24/979
+K 9
+Providers
+V 22
+dir 1f-1.0.r1/22713197
+K 8
+User.php
+V 23
+file 1m-1.0.r1/22713334
+END
+ENDREP
+id: 7-1.0.r24/1374
+type: dir
+pred: 7-1.0.r23/2171
+count: 9
+text: 24 1123 238 238 a7fd2b1dc4d1c975a25bc1453e228e02
+cpath: /app
+copyroot: 0 /
+
+PLAIN
+K 13
+.editorconfig
+V 22
+file 0-1.0.r1/22702688
+K 4
+.env
+V 22
+file 2-1.0.r1/22702875
+K 12
+.env.example
+V 22
+file 3-1.0.r1/22703052
+K 14
+.gitattributes
+V 22
+file 4-1.0.r1/22703236
+K 10
+.gitignore
+V 22
+file 5-1.0.r1/22703422
+K 12
+.styleci.yml
+V 22
+file 6-1.0.r1/22703605
+K 3
+app
+V 18
+dir 7-1.0.r24/1374
+K 7
+artisan
+V 23
+file 1n-1.0.r1/22713900
+K 9
+bootstrap
+V 22
+dir 1o-1.0.r1/22715272
+K 13
+composer.json
+V 23
+file 1w-1.0.r1/22715403
+K 13
+composer.lock
+V 23
+file 1x-1.0.r1/22715591
+K 6
+config
+V 22
+dir 1y-1.0.r1/22718902
+K 8
+database
+V 22
+dir 2d-1.0.r1/22721038
+K 10
+laravel.md
+V 23
+file 2q-1.0.r1/22721170
+K 12
+package.json
+V 23
+file 2r-1.0.r1/22721357
+K 11
+phpunit.xml
+V 23
+file 2s-1.0.r1/22721544
+K 6
+public
+V 19
+dir 2t-1.0.r23/3801
+K 9
+readme.md
+V 23
+file q2-1.0.r1/22960291
+K 9
+resources
+V 19
+dir q3-1.0.r20/1339
+K 6
+routes
+V 18
+dir ro-1.0.r6/8665
+K 10
+server.php
+V 23
+file ru-1.0.r1/22971298
+K 7
+storage
+V 22
+dir rv-1.0.r1/22986634
+K 5
+tests
+V 22
+dir tt-1.0.r1/22988163
+K 6
+vendor
+V 22
+dir u3-1.0.r1/25654774
+K 14
+webpack.mix.js
+V 24
+file 95g-1.0.r1/25654906
+END
+ENDREP
+id: 0.0.r24/2594
+type: dir
+pred: 0.0.r23/5026
+count: 24
+text: 24 1515 1066 1066 e80e0568571e15fa6b0d57de683bcdcb
+cpath: /
+copyroot: 0 /
+
+14-1.0.t23-n modify-file true false /app/Http/Controllers/Home/IndexController.php
+
+
+2594 2731
